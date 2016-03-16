@@ -1,0 +1,267 @@
+ERROR: couldn't open custom.hpk.
+
+ 03/16/2016 - 04:59:14: [FUN] Invalid player 3
+
+ 03/16/2016 - 04:59:14: [AMXX] Displaying debug trace (plugin &quot;vip.amxx&quot;)
+
+ 03/16/2016 - 04:59:14: [AMXX] Run time error 10: native error (native &quot;give_item&quot;)
+
+ 03/16/2016 - 04:59:14: [AMXX] [0] 09a8ur96.sma.p::fwd_spawn (line 44)
+
+User DrX.Laleagane.Ro - BOT (1) uses protocol 48; SteamID assigned by revEmu
+
+User sbKLcWNPsAiRyvYgUfuruPVBkrGhLd (2) uses protocol 48; SteamID assigned by Erroneous
+
+Dropped sbKLcWNPsAiRyvYgUfuruPVBkrGhLd from server
+
+Reason:  Client sent 'drop'
+
+Dropped MefxX from server
+
+Reason:  Client sent 'drop'
+
+83.166.213.72:27005:reconnect
+
+User MefxX (3) uses protocol 47; SteamID assigned by dproto
+
+ 03/16/2016 - 05:01:02: [admin.amxx] Login: &quot;MefxX&lt;63&gt;&lt;STEAM_ID_LAN&gt;&lt;&gt;&quot; became an admin (account &quot;MefxX&quot;) (access &quot;abcdefghijklmnopqrstu&quot;) (address &quot;83.166.213.72&quot;)
+
+ERROR: couldn't open custom.hpk.
+
+ 03/16/2016 - 05:01:03: [FUN] Invalid player 3
+
+ 03/16/2016 - 05:01:03: [AMXX] Displaying debug trace (plugin &quot;vip.amxx&quot;)
+
+ 03/16/2016 - 05:01:03: [AMXX] Run time error 10: native error (native &quot;give_item&quot;)
+
+ 03/16/2016 - 05:01:03: [AMXX] [0] 09a8ur96.sma.p::fwd_spawn (line 44)
+
+ 03/16/2016 - 05:01:09: [mapsmenu.amxx] Cmd: &quot;MefxX&lt;63&gt;&lt;STEAM_ID_LAN&gt;&lt;&gt;&quot; changelevel &quot;deathrun_dojo&quot;
+
+Dropped DrX.Laleagane.Ro - BOT from server
+
+Reason:  Dropping fakeclient on level change
+
+ 03/16/2016 - 05:01:11: -------- Mapchange to deathrun_dojo --------
+
+ 03/16/2016 - 05:01:12: [AMXX] Plugin file open error (plugin &quot;status&quot;)
+
+FATA ERROR (shutting down): Mod_NumForName: models/kzfu/katana_stand.mdl not found
+
+Add &quot;-debug&quot; to the ./hlds_run command line to generate a debug.log to help with solving this problem
+
+Wed Mar 16 05:01:12 EET 2016: Server restart in 10 seconds
+
+Updating server using Steam.
+
+Checking bootstrapper version ...
+
+Getting version 51 of Steam HLDS Update Tool
+
+Unable to download package file
+
+Wed Mar 16 05:01:24 EET 2016: Steam Update failed, ignoring.
+
+
+
+Console initialized.
+
+Using breakpad crash handler
+
+Setting breakpad minidump AppID = 10
+
+Forcing breakpad minidump interfaces to load
+
+Looking up breakpad interfaces from steamclient
+
+Calling BreakpadMiniDumpSystemInit
+
+Installing breakpad exception handler for appid(10)/version(5787)
+
+Protocol version 48
+
+Exe version 1.1.2.7/Stdio (cstrike)
+
+Exe build: 11:30:00 Aug 28 2012 (5787)
+
+STEAM Auth Server
+
+Can't &quot;status&quot;, not connected
+
+Can't &quot;status&quot;, not connected
+
+Alias name is invalid
+
+Alias name is invalid
+
+Server IP address 89.39.13.39:27015
+
+
+
+Metamod version 1.19  Copyright (c) 2001-2006 Will Day &lt;willday@metamod.org&gt;
+
+Metamod comes with ABSOLUTELY NO WARRANTY; for details type `meta gpl'.
+
+This is free software, and you are welcome to redistribute it
+
+under certain conditions; type `meta gpl' for details.
+
+
+
+hlds_i686: src/client/minidump_file_writer.cc:268: bool google_breakpad::UntypedMDRVA::Copy(MDRVA, const void*, size_t): Assertion `size' failed.
+
+
+
+####### SERVICE STOP AT 2016-03-15 23:02 BY CLIENT511 #######
+
+
+
+
+
+####### SERVICE START AT 2016-03-15 23:02 BY CLIENT511 #######
+
+
+
+Auto detecting CPU
+
+Using Pentium II Optimised binary.
+
+./hlds_run: line 128: test: : integer expression expected
+
+Auto-restarting the server on crash
+
+Updating server using Steam.
+
+Checking bootstrapper version ...
+
+Getting version 51 of Steam HLDS Update Tool
+
+Unable to download package file
+
+Wed Mar 16 05:02:14 EET 2016: Steam Update failed, ignoring.
+
+
+
+Console initialized.
+
+Using breakpad crash handler
+
+Setting breakpad minidump AppID = 10
+
+Forcing breakpad minidump interfaces to load
+
+Looking up breakpad interfaces from steamclient
+
+Calling BreakpadMiniDumpSystemInit
+
+Installing breakpad exception handler for appid(10)/version(5787)
+
+Protocol version 48
+
+Exe version 1.1.2.7/Stdio (cstrike)
+
+Exe build: 11:30:00 Aug 28 2012 (5787)
+
+STEAM Auth Server
+
+Can't &quot;status&quot;, not connected
+
+Can't &quot;status&quot;, not connected
+
+Alias name is invalid
+
+Alias name is invalid
+
+Server IP address 89.39.13.39:27015
+
+
+
+Metamod version 1.19  Copyright (c) 2001-2006 Will Day &lt;willday@metamod.org&gt;
+
+Metamod comes with ABSOLUTELY NO WARRANTY; for details type `meta gpl'.
+
+This is free software, and you are welcome to redistribute it
+
+under certain conditions; type `meta gpl' for details.
+
+
+
+hlds_i686: src/client/minidump_file_writer.cc:268: bool google_breakpad::UntypedMDRVA::Copy(MDRVA, const void*, size_t): Assertion `size' failed.
+
+
+
+####### SERVICE RESTART AT 2016-03-15 23:09 BY CLIENT511 #######
+
+
+
+
+
+####### SERVICE RESTART AT 2016-03-15 23:09 BY CLIENT511 #######
+
+
+
+Auto detecting CPU
+
+Using Pentium II Optimised binary.
+
+./hlds_run: line 128: test: : integer expression expected
+
+Auto-restarting the server on crash
+
+Updating server using Steam.
+
+Checking bootstrapper version ...
+
+Getting version 51 of Steam HLDS Update Tool
+
+Unable to download package file
+
+Wed Mar 16 05:09:50 EET 2016: Steam Update failed, ignoring.
+
+
+
+Console initialized.
+
+Using breakpad crash handler
+
+Setting breakpad minidump AppID = 10
+
+Forcing breakpad minidump interfaces to load
+
+Looking up breakpad interfaces from steamclient
+
+Calling BreakpadMiniDumpSystemInit
+
+Installing breakpad exception handler for appid(10)/version(5787)
+
+Protocol version 48
+
+Exe version 1.1.2.7/Stdio (cstrike)
+
+Exe build: 11:30:00 Aug 28 2012 (5787)
+
+STEAM Auth Server
+
+Can't &quot;status&quot;, not connected
+
+Can't &quot;status&quot;, not connected
+
+Alias name is invalid
+
+Alias name is invalid
+
+Server IP address 89.39.13.39:27015
+
+
+
+Metamod version 1.19  Copyright (c) 2001-2006 Will Day &lt;willday@metamod.org&gt;
+
+Metamod comes with ABSOLUTELY NO WARRANTY; for details type `meta gpl'.
+
+This is free software, and you are welcome to redistribute it
+
+under certain conditions; type `meta gpl' for details.
+
+
+
+hlds_i686: src/client/minidump_file_writer.cc:268: bool google_breakpad::UntypedMDRVA::Copy(MDRVA, const void*, size_t): Assertion `size' failed.
